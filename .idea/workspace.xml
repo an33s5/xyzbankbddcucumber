@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="49b93ac9-3c77-435d-aac3-3f5a8c14b5ea" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26NRVb5DoMF60hAJxkUWW35IEVU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\octav\IdeaProjects\xyzbankbddcucumber\src\test\resources\features\" />
+      <recent name="C:\Users\octav\IdeaProjects\xyzbankbddcucumber\src\test\resources" />
+      <recent name="C:\Users\octav\IdeaProjects\xyzbankbddcucumber\src\test\resources\features\smokefeatures" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.SanityTestRunner">
+    <configuration name="Scenario: Bank manager can add customers, open account, and view customers" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/sanityfeatures/bankManagerControls.feature" />
+      <option name="GLUE" value="com.xyzbank.base com.xyzbank.stepdefinition.smokeSteps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="xyzbankbddcucumber" />
+      <option name="NAME_FILTER" value="^Bank manager can add customers\, open account\, and view customers$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Bank manager can add customers\, open account\, and view customers$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Bank manager can add customers, open account, and view customers" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Customer logs in to the system (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/smokefeatures/deposit.feature" />
+      <option name="GLUE" value="com.xyzbank.base com.xyzbank.stepdefinition.smokeSteps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="xyzbankbddcucumber" />
+      <option name="NAME_FILTER" value="^Customer logs in to the system$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Customer logs in to the system$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Customer logs in to the system" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Customer should see their deposited balance" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/regressionfeatures/balance.feature" />
+      <option name="GLUE" value="com.xyzbank.base com.xyzbank.stepdefinition.regressionSteps com.xyzbank.stepdefinition.smokeSteps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="xyzbankbddcucumber" />
+      <option name="NAME_FILTER" value="^Customer should see their deposited balance$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Customer should see their deposited balance$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Customer should see their deposited balance" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegressionTestRunner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="xyzbankbddcucumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runners" />
+      <option name="MAIN_CLASS_NAME" value="runners.RegressionTestRunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SanityTestRunner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="xyzbankbddcucumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runners" />
+      <option name="MAIN_CLASS_NAME" value="runners.SanityTestRunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SanityTestRunner" />
+        <item itemvalue="TestNG.RegressionTestRunner" />
+        <item itemvalue="Cucumber Java.Scenario: Bank manager can add customers, open account, and view customers" />
+        <item itemvalue="Cucumber Java.Scenario: Customer should see their deposited balance" />
+        <item itemvalue="Cucumber Java.Scenario: Customer logs in to the system (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49b93ac9-3c77-435d-aac3-3f5a8c14b5ea" name="Changes" comment="" />
+      <created>1647262085465</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647262085465</updated>
+    </task>
+    <servers />
+  </component>
+</project>
