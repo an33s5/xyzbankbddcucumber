@@ -1,4 +1,4 @@
-package com.xyzbank.stepdefinition.regressionSteps;
+package com.xyzbank.stepdefinition.sanitySteps;
 
 import com.xyzbank.pageobjects.BankManagerPage;
 import com.xyzbank.pageobjects.HomePage;
